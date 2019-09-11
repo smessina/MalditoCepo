@@ -7,8 +7,11 @@ Contenido destinado a personas físicas/humanas que realizan trabajos remotos pa
 ## Puntos importantes a tener en cuenta
 
  1. Todo cobro en moneda extranjera por prestación de servicios al exterior **DEBE** liquidarse _(vender las divisas)_ en máximo 5 días hábiles *(según pto. 4 de la Com. "A" 6770 del BCRA)*.
+ 
  2. Las acreditaciones automáticas de moneda extranjera en la cuenta bancaria del titular **quedan suspendidas**.
+ 
  3. El titular destinatario de la transferencia tendrá que ir **personalmente** al sector de COMEX (Comercio Exterior) de la sucursal donde tiene radicada la cuenta bancaria para gestionar la liquidación de las divisas recibidas.
+ 
  4. Deberá presentar la correspondiente **Factura E** que sustenta el cobro recibido y el respectivo formulario **Solicitud de Liquidación de Orden de Pago** *(o similar)* del banco correspondiente.
 
 ### Formularios para solicitar liquidación de cobros desde el exterior
