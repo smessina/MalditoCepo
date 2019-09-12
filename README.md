@@ -91,6 +91,6 @@ Repositorio oficial: [https://github.com/smessina/MalditoCepo](https://github.co
 
 Sugerencias y colaboraciones: [malditocepo@legalizatuproyecto.com](mailto:malditocepo@legalizatuproyecto.com)
 
-![Atribución-CompartirIgual (BY-SA) v.4.0 Internacional de Creative Commons](assets/CC_BY-SA_4.0.jpg)
+![Atribución-CompartirIgual (BY-SA) v.4.0 Internacional de Creative Commons](assets/CC_BY-SA_4_0.jpg)
 
 Los textos publicados en esta obra están sujetos (excepto que se indique lo contrario) a una licencia de Atribución-CompartirIgual (BY-SA) v.4.0 Internacional de Creative Commons. Se puede modificar la obra, reproducirla, distribuirla o comunicarla públicamente siempre que se cite el autor, la/s fuente/s y siempre que la obra derivada quede sujeta a la misma licencia que el material original. La licencia completa se puede consultar en: [https://creativecommons.org/licenses/by-sa/4.0/deed.es](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
