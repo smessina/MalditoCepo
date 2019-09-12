@@ -85,8 +85,6 @@ S24 - Otros servicios personales, culturales y recreativos
 
 MalditoCepo es una publicación de **Legalizá tu Proyecto - Inteligencia Legal para Emprendedores** ([legalizatuproyecto.com](https://legalizatuproyecto.com))
 
-Idea surgida de las charlas en el canal **[#finanzas-y-legales](https://meetupjs.slack.com/messages/CHNL3EA4R)** del [Slack](https://meetupjs.slack.com) de **[Meetup.js](https://meetupjs.com.ar)**.
-
 Repositorio oficial: [https://github.com/smessina/MalditoCepo](https://github.com/smessina/MalditoCepo)
 
 Sugerencias y colaboraciones: [malditocepo@legalizatuproyecto.com](mailto:malditocepo@legalizatuproyecto.com)
