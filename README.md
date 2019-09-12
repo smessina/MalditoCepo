@@ -48,7 +48,9 @@ Son "categorías" establecidas por el **BCRA** que indican el motivo que justifi
 
 A veces en la **Orden de Pago** que notifica el banco receptor lo indica _(vendría a ser el Cod. que cargó el pagador que envía los USD)_. Otras veces no lo indica y es el banco quien le pide al beneficiario que lo indiquen en el formulario de liquidación para cotejar que sea el mismo que puso el otro.
 
-> CONSEJO: chequear los recibos y/o comprobantes que envían los contratantes/empleadores para obtener los datos de ahí y evitar que les reboten el formulario. Este es el listado de Códigos de Concepto:
+> CONSEJO: chequear los recibos y/o comprobantes que envían los contratantes/empleadores para obtener los datos de ahí y evitar que les reboten el formulario.
+
+Este es el listado de Códigos de Conceptos:
 
 [📄 Operaciones de Cambio - Códigos de Conceptos](formularios/bcra_cod_de_concepto.pdf)
 
@@ -78,3 +80,18 @@ S24 - Otros servicios personales, culturales y recreativos
  - [Banco HSBC](formularios/banco_hsbc.doc)
  - [Banco ICBC](formularios/banco_icbc.docx)
  - [Banco Comafi](formularios/banco_comafi.doc)
+
+#### Acerca de...
+
+MalditoCepo es una publicación de **Legalizá tu Proyecto - Inteligencia Legal para Emprendedores
+[legalizatuproyecto.com](https://legalizatuproyecto.com)**
+
+Idea surgida de las charlas en el canal **[#finanzas-y-legales](https://meetupjs.slack.com/messages/CHNL3EA4R)** del [Slack](https://meetupjs.slack.com) de **[Meetup.js](https://meetupjs.com.ar)**.
+
+Repositorio oficial: https://github.com/smessina/MalditoCepo
+
+Sugerencias y colaboraciones: malditocepo@legalizatuproyecto.com
+
+![Atribución-CompartirIgual (BY-SA) v.4.0 Internacional de Creative Commons](assets/CC_BY-SA_4.0.png)
+Los textos publicados en esta obra están sujetos (excepto que se indique lo contrario) a una licencia de Atribución-CompartirIgual (BY-SA) v.4.0 Internacional de Creative Commons. Se puede modificar la obra, reproducirla, distribuirla o comunicarla públicamente siempre que se cite el autor, la/s fuente/s y siempre que la obra derivada quede sujeta a la misma licencia que el material original. La licencia completa se puede consultar en:
+https://creativecommons.org/licenses/by-sa/4.0/deed.es
