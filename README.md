@@ -30,7 +30,7 @@ Contenido destinado a personas físicas/humanas que realizan trabajos remotos pa
 **- Datos del ordenante _(el que paga)_:**
 * Nombre completo o Razón Social
 * Domicilio
-* Pais
+* País
 * etc.
 
 _(Estos y otros datos más se pueden obtener del email/mensaje SWIFT enviado por el banco desde el area de Comercio Exterior que notifica la recepción de la transferencia)_
@@ -39,18 +39,18 @@ _(Estos y otros datos más se pueden obtener del email/mensaje SWIFT enviado por
 * Nombre y Nro. de la cuenta bancaria ordenante _(la que pagó)_
 * Nro. de la cuenta bancaria beneficiaria _(la que recibirá)_
 * Monto 
-* Cod. SWIFT
-* Cod. de Concepto
+* Cód. SWIFT
+* Cód. de Concepto
 
-### Código de Concepto ###
+### Códigos de Concepto ###
 
 Son "categorías" establecidas por el **BCRA** que indican el motivo que justifica la transferencia.
 
 A veces en la **Orden de Pago** que notifica el banco receptor lo indica _(vendría a ser el Cod. que cargó el pagador que envía los USD)_. Otras veces no lo indica y es el banco quien le pide al beneficiario que lo indiquen en el formulario de liquidación para cotejar que sea el mismo que puso el otro.
 
-> CONSEJO: chequear los recibos y/o comprobantes que envían los contratantes/empleadores para obtener los datos de ahí y evitar que les reboten el formulario.
+> CONSEJO: chequear los recibos y/o comprobantes que envían los contratantes/empleadores para obtener los datos de ahí y evitar que les reboten el formulario. Este es el listado de Códigos de Concepto:
 
-Este es el listado de Código de Concepto: ...
+[📄 Operaciones de Cambio - Códigos de Conceptos](formularios/bcra_cod_de_concepto.pdf)
 
 Y estos son algunos códigos de conceptos comunes en lo relativo a trabajo remoto para el exterior:
 ```
@@ -67,7 +67,7 @@ S24 - Otros servicios personales, culturales y recreativos
 
 `ADVERTENCIA: Consultar profesionalmente con un Abogado/Contador matriculado sobre los posibles efectos legales-fiscales individuales que cada uno pueda tener frente a las acciones a tomar.`
 
-### Formularios para solicitar liquidación de cobros desde el exterior
+### Formularios para solicitar liquidación de cobros desde el exterior (en desarrollo...)
 
  - [Banco Nación](formularios/banco_nacion.pdf)
  - [Banco de la Provincia de Buenos Aires](formularios/banco_provincia_bsas.pdf)
