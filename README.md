@@ -89,6 +89,16 @@ Repositorio oficial: [https://github.com/smessina/MalditoCepo](https://github.co
 
 Sugerencias y colaboraciones: [malditocepo@legalizatuproyecto.com](mailto:malditocepo@legalizatuproyecto.com)
 
+¿Sale un café?:
+
+> [☕️ Si, dale!](https://www.mercadopago.com/mla/checkout/start?pref_id=37082978-c9044b6f-47c8-4d2c-9640-98f28f138acb)  
+> [☕️☕️ Pidamos dos](https://www.mercadopago.com/mla/checkout/start?pref_id=37082978-a1c43d34-2e3a-4cb4-b480-135ecd1f9b0b)  
+> [☕️☕️☕️ Donde toman dos, toman tres](https://www.mercadopago.com/mla/checkout/start?pref_id=37082978-4316faff-7b2c-4409-907d-da3cb4b6b881)  
+> [☕️☕️☕️☕️ Dos para hoy y dos para mañana](https://www.mercadopago.com/mla/checkout/start?pref_id=37082978-990fdcb2-bc9a-48ae-83e9-3e21d84c3670)  
+> [☕️☕️☕️☕️☕️ Café para toda la semana](https://www.mercadopago.com/mla/checkout/start?pref_id=37082978-64fafd0d-fdaa-4805-afea-26c8d90bf22d)
+
+---
+
 ![Atribución-CompartirIgual (BY-SA) v.4.0 Internacional de Creative Commons](assets/CC_BY-SA_4_0.jpg)
 
 Los textos publicados en esta obra están sujetos (excepto que se indique lo contrario) a una licencia de Atribución-CompartirIgual (BY-SA) v.4.0 Internacional de Creative Commons. Se puede modificar la obra, reproducirla, distribuirla o comunicarla públicamente siempre que se cite el autor, la/s fuente/s y siempre que la obra derivada quede sujeta a la misma licencia que el material original. La licencia completa se puede consultar en: [https://creativecommons.org/licenses/by-sa/4.0/deed.es](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
