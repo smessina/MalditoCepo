@@ -69,7 +69,7 @@ S24 - Otros servicios personales, culturales y recreativos
 
 `ADVERTENCIA: Consultar profesionalmente con un Abogado/Contador matriculado sobre los posibles efectos legales-fiscales individuales que cada uno pueda tener frente a las acciones a tomar.`
 
-### Formularios para solicitar liquidación de cobros desde el exterior (en desarrollo...)
+## Formularios para solicitar liquidación de cobros desde el exterior (en desarrollo...)
 
  - [Banco Nación](formularios/banco_nacion.pdf)
  - [Banco de la Provincia de Buenos Aires](formularios/banco_provincia_bsas.pdf)
@@ -81,17 +81,16 @@ S24 - Otros servicios personales, culturales y recreativos
  - [Banco ICBC](formularios/banco_icbc.docx)
  - [Banco Comafi](formularios/banco_comafi.doc)
 
-#### Acerca de...
+## Acerca de...
 
-MalditoCepo es una publicación de **Legalizá tu Proyecto - Inteligencia Legal para Emprendedores
-[legalizatuproyecto.com](https://legalizatuproyecto.com)**
+MalditoCepo es una publicación de **Legalizá tu Proyecto - Inteligencia Legal para Emprendedores** ([legalizatuproyecto.com](https://legalizatuproyecto.com))
 
 Idea surgida de las charlas en el canal **[#finanzas-y-legales](https://meetupjs.slack.com/messages/CHNL3EA4R)** del [Slack](https://meetupjs.slack.com) de **[Meetup.js](https://meetupjs.com.ar)**.
 
-Repositorio oficial: https://github.com/smessina/MalditoCepo
+Repositorio oficial: [https://github.com/smessina/MalditoCepo](https://github.com/smessina/MalditoCepo)
 
-Sugerencias y colaboraciones: malditocepo@legalizatuproyecto.com
+Sugerencias y colaboraciones: [malditocepo@legalizatuproyecto.com](mailto:malditocepo@legalizatuproyecto.com)
 
 ![Atribución-CompartirIgual (BY-SA) v.4.0 Internacional de Creative Commons](assets/CC_BY-SA_4.0.png)
-Los textos publicados en esta obra están sujetos (excepto que se indique lo contrario) a una licencia de Atribución-CompartirIgual (BY-SA) v.4.0 Internacional de Creative Commons. Se puede modificar la obra, reproducirla, distribuirla o comunicarla públicamente siempre que se cite el autor, la/s fuente/s y siempre que la obra derivada quede sujeta a la misma licencia que el material original. La licencia completa se puede consultar en:
-https://creativecommons.org/licenses/by-sa/4.0/deed.es
+
+Los textos publicados en esta obra están sujetos (excepto que se indique lo contrario) a una licencia de Atribución-CompartirIgual (BY-SA) v.4.0 Internacional de Creative Commons. Se puede modificar la obra, reproducirla, distribuirla o comunicarla públicamente siempre que se cite el autor, la/s fuente/s y siempre que la obra derivada quede sujeta a la misma licencia que el material original. La licencia completa se puede consultar en: [https://creativecommons.org/licenses/by-sa/4.0/deed.es](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
