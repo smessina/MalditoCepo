@@ -15,8 +15,10 @@ Contenido destinado a personas físicas/humanas que realizan trabajos remotos pa
 3. Las acreditaciones automáticas de moneda extranjera en la cuenta bancaria del titular **quedan suspendidas**.
 
 4. El titular destinatario de la transferencia tendrá que ir **personalmente** al sector de COMEX (Comercio Exterior) de la sucursal donde tiene radicada la cuenta bancaria para gestionar la liquidación de las divisas recibidas.
+   - Nota BNA: te mandan un mail (con el nro de ORPA) cuando reciben la transferencia y recién ahi podes ir a liberarla. 
 
 5. Deberá presentar la correspondiente **Factura E** que sustenta el cobro recibido y el respectivo formulario **Solicitud de Liquidación de Orden de Pago** *(o similar)* del banco correspondiente.
+   - Nota BNA: Además te piden una DDJJ, por el momento de redacción libre, en la que consten los siguientes datos: NÚMERO Y FECHA DE FACTURA CORRESPONDIENTE AL COBRO
 
 ## Datos requeridos para completar el formulario de Liquidación de Orden de Pago
 
@@ -71,7 +73,9 @@ S24 - Otros servicios personales, culturales y recreativos
 
 ## Formularios para solicitar liquidación de cobros desde el exterior (en desarrollo...)
 
- - [Banco Nación](formularios/banco_nacion.pdf)
+ - [Banco Nación](formularios/banco_nacion.pdf)  
+ - [Banco Nación Comercial](formularios/banco_nacion_comercial.pdf)
+ - [Banco Nación - Lavado de Activos](formularios/banco_nacion_F-62190_ddjj_lavado_activos.doc)
  - [Banco de la Provincia de Buenos Aires](formularios/banco_provincia_bsas.pdf)
  - [Banco Ciudad](formularios/banco_ciudad.xlsx)
  - [Banco BBVA](formularios/banco_bbva.pdf)
