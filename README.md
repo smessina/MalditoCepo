@@ -73,9 +73,9 @@ S24 - Otros servicios personales, culturales y recreativos
 
 ## Formularios para solicitar liquidación de cobros desde el exterior (en desarrollo...)
 
- - [Banco Nación](formularios/banco_nacion.pdf)  
- - [Banco Nación Comercial](formularios/banco_nacion_comercial.pdf)
- - [Banco Nación - Lavado de Activos](formularios/banco_nacion_F-62190_ddjj_lavado_activos.doc)
+ - [Banco Nación (para Personas Humanas)](formularios/banco_nacion_cartera_consumo.pdf)  
+ - [Banco Nación (para Personas Jurídicas)](formularios/banco_nacion_cartera_comercial.pdf)
+ - [Banco Nación - DDJJ Lavado de Activos](formularios/banco_nacion_F-62190_ddjj_lavado_activos.doc)
  - [Banco de la Provincia de Buenos Aires](formularios/banco_provincia_bsas.pdf)
  - [Banco Ciudad](formularios/banco_ciudad.xlsx)
  - [Banco BBVA](formularios/banco_bbva.pdf)
