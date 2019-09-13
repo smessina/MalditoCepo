@@ -99,10 +99,10 @@ Sugerencias y colaboraciones: [malditocepo@legalizatuproyecto.com](mailto:maldit
 |:-:|:-|
 |☕️ x 1|[Pedite un cortado!](https://www.mercadopago.com/mla/checkout/start?pref_id=37082978-c9044b6f-47c8-4d2c-9640-98f28f138acb)|
 |☕️ x 2|[Pidamos dos](https://www.mercadopago.com/mla/checkout/start?pref_id=37082978-a1c43d34-2e3a-4cb4-b480-135ecd1f9b0b)|
-|☕️ x 3|[Donde toman dos, toman tres](https://www.mercadopago.com/mla/checkout/start?pref_id=37082978-4316faff-7b2c-4409-907d-da3cb4b6b881)||
+|☕️ x 3|[Donde toman dos, toman tres](https://www.mercadopago.com/mla/checkout/start?pref_id=37082978-4316faff-7b2c-4409-907d-da3cb4b6b881)|
 |☕️ x 4|[Dos para hoy y dos para mañana](https://www.mercadopago.com/mla/checkout/start?pref_id=37082978-990fdcb2-bc9a-48ae-83e9-3e21d84c3670)|
 |☕️ x 5|[Café para toda la semana](https://www.mercadopago.com/mla/checkout/start?pref_id=37082978-64fafd0d-fdaa-4805-afea-26c8d90bf22d)|
-|![](https://i.ibb.co/7K6QHKM/Bitcoin-QR-code.jpg)|Mejor un cripto-café:<br>[_35mJx4EeEY7Lnkxvg1Swn1eSUN1TtQsQ31_](bitcoin:35mJx4EeEY7Lnkxvg1Swn1eSUN1TtQsQ31)|
+|![35mJx4EeEY7Lnkxvg1Swn1eSUN1TtQsQ31](https://i.ibb.co/7K6QHKM/Bitcoin-QR-code.jpg)|Mejor un cripto-café:<br>[_35mJx4EeEY7Lnkxvg1Swn1eSUN1TtQsQ31_](bitcoin:35mJx4EeEY7Lnkxvg1Swn1eSUN1TtQsQ31)|
 
 ---
 
