@@ -1,4 +1,4 @@
-### Porque el que facturó dolares, recibirá... REPERFILANDO 💸
+### 💸 Porque el que facturó dolares, recibirá... REPERFILANDO
 
 Repositorio con información ¿actualizada? sobre el **Control Cambiario** (Cepo) establecido por el **[Decreto 609/2019](http://servicios.infoleg.gob.ar/infolegInternet/anexos/325000-329999/327566/norma.htm)** de Presidencia de la Nación Argentina y por la **[Comunicación "A" 6770](http://www.bcra.gov.ar/Pdfs/comytexord/A6770.pdf)** del BCRA.
 
@@ -6,7 +6,7 @@ Contenido destinado a personas físicas/humanas que realizan trabajos remotos pa
 
 `ADVERTENCIA: Esta web, su contenido, opiniones y demás información no implica asesoramiento legal y ante cualquier duda sobre su situación debe procurarse consultar profesionalmente con un Abogado o Contador matriculado.`
 
-## Puntos importantes a tener en cuenta
+## 🔔 Puntos importantes a tener en cuenta
 
 1. El llamado **Control Cambiario** rige desde el 01/09/2019 y se extenderá hasta el 31/12/2019 *(supuestamente)*.
 
@@ -22,7 +22,7 @@ Contenido destinado a personas físicas/humanas que realizan trabajos remotos pa
 
    - Nota BNA: Además piden una DDJJ, por el momento de redacción libre, en la que consten los siguientes datos: NÚMERO y FECHA DE FACTURA correspondiente al cobro.
 
-## MalditoCepo en los medios
+## 🗞 MalditoCepo en los medios
 
 Finalmente los medios periodísticos se hicieron eco de la realidad que viven los freelancers frente a la **"pesificación"** forzosa de las transferencias internacionales en USD que están realizando los bancos argentinos en cumplimiento del pto. 4 de la  **[Comunicación "A" 6770](http://www.bcra.gov.ar/Pdfs/comytexord/A6770.pdf)** del BCRA al referirse que...
 
@@ -42,7 +42,7 @@ Finalmente los medios periodísticos se hicieron eco de la realidad que viven lo
 
  - [18/09/2019 - **El que factura dólares ¿cobra dólares?: cómo los profesionales pueden saltar cepo a la venta de servicios al exterior** (iproup.com)](https://www.iproup.com/mundo-fintech/7476-divisa-pesificacion-freelance-Cepo-al-dolar-como-impacta-en-la-exportacion-de-servicios)
 
-## Datos requeridos para completar el formulario de Liquidación de Orden de Pago
+## 📋 Datos requeridos para completar el formulario de Liquidación de Orden de Pago
 
 **- Datos del beneficiario _(el que cobra)_:**
 * Nombre completo
@@ -66,7 +66,7 @@ _(Estos y otros datos más se pueden obtener del email/mensaje SWIFT enviado por
 * Cód. SWIFT
 * Cód. de Concepto
 
-### Códigos de Concepto ###
+### 🏷 Códigos de Concepto ###
 
 Son "categorías" establecidas por el **BCRA** que indican el motivo que justifica la transferencia.
 
@@ -93,7 +93,7 @@ S24 - Otros servicios personales, culturales y recreativos
 
 `ADVERTENCIA: Consultar profesionalmente con un Abogado/Contador matriculado sobre los posibles efectos legales-fiscales individuales que cada uno pueda tener frente a las acciones a tomar.`
 
-## Formularios para solicitar liquidación de cobros desde el exterior (en desarrollo...)
+## 📄 Formularios para solicitar liquidación de cobros desde el exterior (en desarrollo...)
 
  - [Banco Nación (para Personas Humanas)](formularios/banco_nacion_cartera_consumo.pdf)  
  - [Banco Nación (para Personas Jurídicas)](formularios/banco_nacion_cartera_comercial.pdf)
@@ -107,7 +107,7 @@ S24 - Otros servicios personales, culturales y recreativos
  - [Banco ICBC](formularios/banco_icbc.docx)
  - [Banco Comafi](formularios/banco_comafi.doc)
 
-## Acerca de...
+## 📣 Acerca de...
 
 MalditoCepo es una publicación de **Legalizá tu Proyecto - Inteligencia Legal para Emprendedores** ([legalizatuproyecto.com](https://legalizatuproyecto.com))
 
