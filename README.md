@@ -22,6 +22,26 @@ Contenido destinado a personas físicas/humanas que realizan trabajos remotos pa
 
    - Nota BNA: Además piden una DDJJ, por el momento de redacción libre, en la que consten los siguientes datos: NÚMERO y FECHA DE FACTURA correspondiente al cobro.
 
+## MalditoCepo en los medios
+
+Finalmente los medios periodísticos se hicieron eco de la realidad que viven los freelancers frente a la **"pesificación"** forzosa de las transferencias internacionales en USD que están realizando los bancos argentinos en cumplimiento del pto. 4 de la  **[Comunicación "A" 6770](http://www.bcra.gov.ar/Pdfs/comytexord/A6770.pdf)** del BCRA al referirse que...
+
+> _Los cobros de **exportaciones de servicios** deberán ser ingresados y **liquidados en el mercado local de cambios** en un plazo no mayor a los 5 (cinco) días hábiles a partir de la fecha de su percepción en el exterior o en el país, o de su acreditación en cuentas del exterior_
+
+ - [12/09/2019 - **El cepo cambiario también afecta a profesionales que prestan servicios en el exterior** (ambito.com)](https://www.ambito.com/el-cepo-cambiario-tambien-afecta-profesionales-que-prestan-servicios-el-exterior-n5054172)
+ 
+ - [17/09/2019 - **Monotributistas deberán pesificar cobro de servicios al exterior pero antes podrán pagar deudas en moneda extranjera** (cronista.com)](https://www.cronista.com/economiapolitica/Monotributistas-deberan-pesificar-cobro-de-servicios-al-exterior-pero-antes-podran-pagar-deudas-en-moneda-extranjera-20190917-0023.html)
+ 
+ - [17/09/2019 - **Control de cambios. Pesifican los pagos en dólares para trabajos hechos para otros países** (lanacion.com.ar)](https://www.lanacion.com.ar/economia/control-cambios-ya-no-se-puede-trabajar-nid2288608)
+
+ - [17/09/2019 - **Los “freelancers” están obligados a pesificar sus ingresos y además, pierden un 7% con el tipo de cambio** (clarin.com)](https://www.clarin.com/economia/economia/freelancers-obligados-pesificar-ingresos-ademas-pierden-7-tipo-cambio_0_RjiD8At.html)
+
+ - [17/09/2019 - **Los trabajos personales realizados para clientes de otros países ahora sólo se podrán cobrar en pesos** (infobae.com)](https://www.infobae.com/economia/finanzas-y-negocios/2019/09/17/los-trabajos-personales-realizados-para-clientes-de-otros-paises-ahora-solo-se-podran-cobrar-en-pesos/)
+
+ - [17/09/2019 - **Se pesifican los pagos para los que hagan trabajos para el exterior** (perfil.com)](https://www.perfil.com/noticias/economia/pesifican-pagos-los-que-hagan-trabajos-exterior.phtml)
+
+ - [18/09/2019 - **El que factura dólares ¿cobra dólares?: cómo los profesionales pueden saltar cepo a la venta de servicios al exterior** (iproup.com)](https://www.iproup.com/mundo-fintech/7476-divisa-pesificacion-freelance-Cepo-al-dolar-como-impacta-en-la-exportacion-de-servicios)
+
 ## Datos requeridos para completar el formulario de Liquidación de Orden de Pago
 
 **- Datos del beneficiario _(el que cobra)_:**
