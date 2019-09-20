@@ -1,6 +1,6 @@
 ### 💸 Porque el que facturó dolares, recibirá... REPERFILANDO
 
-Repositorio con información ¿actualizada? sobre el **Control Cambiario** (Cepo) establecido por el **[Decreto 609/2019](http://servicios.infoleg.gob.ar/infolegInternet/anexos/325000-329999/327566/norma.htm)** de Presidencia de la Nación Argentina y por la **[Comunicación "A" 6770](http://www.bcra.gov.ar/Pdfs/comytexord/A6770.pdf)** del BCRA.
+Toda la información ¿actualizada? sobre el **Control Cambiario** (Cepo) establecido por el **[Decreto 609/2019](http://servicios.infoleg.gob.ar/infolegInternet/anexos/325000-329999/327566/norma.htm)** de Presidencia de la Nación Argentina y por la **[Comunicación "A" 6770](http://www.bcra.gov.ar/Pdfs/comytexord/A6770.pdf)** del BCRA.
 
 Contenido destinado a personas físicas/humanas que realizan trabajos remotos para empresas, plataformas, clientes y contratantes en el exterior y reciben sus cobros vía Transferencia Bancaria Internacional.
 
@@ -16,11 +16,18 @@ Contenido destinado a personas físicas/humanas que realizan trabajos remotos pa
 
 4. El titular destinatario de la transferencia tendrá que ir **personalmente** al sector de COMEX (Comercio Exterior) de la sucursal donde tiene radicada la cuenta bancaria para gestionar la liquidación de las divisas recibidas.
 
-   - Nota BNA: mandan un e-mail (con el nro. de ORPA) cuando reciben la transferencia y recién ahí puede ir a liquidarse.
-
 5. Deberá presentar la correspondiente **Factura E** que sustenta el cobro recibido y el respectivo formulario **Solicitud de Liquidación de Orden de Pago** *(o similar)* del banco correspondiente.
 
-   - Nota BNA: Además piden una DDJJ, por el momento de redacción libre, en la que consten los siguientes datos: NÚMERO y FECHA DE FACTURA correspondiente al cobro.
+## ❗ Datos extra
+
+- **Banco de la Nación Argentina**:
+   - Manda un e-mail (con el nro. de ORPA) cuando reciben la transferencia y recién ahí puede ir a liquidarse.
+   - Además, piden una DDJJ, por el momento de redacción libre, en la que consten los siguientes datos: NÚMERO y FECHA DE FACTURA correspondiente al cobro.
+
+- **Banco Galicia**:
+   - Habilitando el servicio **Galicia Office Banking** se puede autorizar la liquidacion de transferencias del exterior sin tener que llevar el formulario a la sucurcal fisicamente _(llamar al respectivo oficial de cuentas para más información)_.
+      - [https://wsec06.bancogalicia.com.ar](https://wsec06.bancogalicia.com.ar)
+      - [https://wsec06.bancogalicia.com.ar/Home/TermsAndConditions](https://wsec06.bancogalicia.com.ar/Home/TermsAndConditions)
 
 ## 🗞 MalditoCepo en los medios
 
