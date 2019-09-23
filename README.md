@@ -30,7 +30,7 @@ Contenido destinado a personas físicas/humanas que realizan trabajos remotos pa
       - [https://wsec06.bancogalicia.com.ar/Home/TermsAndConditions](https://wsec06.bancogalicia.com.ar/Home/TermsAndConditions)
 
 - **Banco Santander**:
-   - Exige que su **FORMULARIO UNICO LIQUIDACION DEORDENES DE PAGO DEL EXTERIOR** sea completado enteramente por computadora incluyendo la fecha del día en que es presentado _(no admiten correcciones, subsanaciones y/o completado de datos a mano)_.
+   - Exige que su **"FORMULARIO UNICO LIQUIDACION DE ORDENES DE PAGO DEL EXTERIOR"** sea completado enteramente por computadora incluyendo la fecha del día en que es presentado _(no admiten correcciones, subsanaciones y/o completado de datos a mano)_.
 
 ## 🗞 MalditoCepo en los medios
 
