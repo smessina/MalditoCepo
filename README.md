@@ -29,6 +29,9 @@ Contenido destinado a personas físicas/humanas que realizan trabajos remotos pa
       - [https://wsec06.bancogalicia.com.ar](https://wsec06.bancogalicia.com.ar)
       - [https://wsec06.bancogalicia.com.ar/Home/TermsAndConditions](https://wsec06.bancogalicia.com.ar/Home/TermsAndConditions)
 
+- **Banco Santander**:
+   - Exige que su **FORMULARIO UNICO LIQUIDACION DEORDENES DE PAGO DEL EXTERIOR** sea completado enteramente por computadora incluyendo la fecha del día en que es presentado _(no admiten correcciones, subsanaciones y/o completado de datos a mano)_.
+
 ## 🗞 MalditoCepo en los medios
 
 Finalmente los medios periodísticos se hicieron eco de la realidad que viven los freelancers frente a la **"pesificación"** forzosa de las transferencias internacionales en USD que están realizando los bancos argentinos en cumplimiento del pto. 4 de la  **[Comunicación "A" 6770](http://www.bcra.gov.ar/Pdfs/comytexord/A6770.pdf)** del BCRA al referirse que...
